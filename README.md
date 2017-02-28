@@ -1,10 +1,7 @@
 # btg-email
 To Do:
 
--Email Body not centered on outlook mobile
-
 -Look into Sendgrid tags, specifically Update Preferences
--Fix Button Sizes on mobile being too big
 -Thunderbird Fonts not rendering
 -Social Icons Don't have margins in outlook
 
