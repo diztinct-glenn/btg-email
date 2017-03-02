@@ -3,10 +3,6 @@ To Do:
 
 -Add Link Destinations (including Unsubscribe)
 
--ADD TELL-TALE HEART TEXT TO TEMPLATES
-
--ADD AND CHECK STUDENT IMAGE SIZE IN OUTLOOK 10
-
 
 Notes:
 
