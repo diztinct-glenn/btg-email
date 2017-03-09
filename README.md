@@ -19,3 +19,42 @@ Notes:
 - Tell Tale + Books = teachertelltalebooks.html
 - MLK + Students = teachermlkstudents.html
 - MLK + Books = teachermlkbooks.html
+
+
+
+
+#Templates for Different Campaigns#
+
+###Intro to Books That Grow (HTML)###
+####Subject: Find the same text at different reading levels####
+#####Version 1#####
+- techtelltale.html
+
+#####Version 2#####
+- techmlk.html
+
+---
+
+###Accessible Instructional Materials(HTML)###
+####Subject: Redfining Accessible Reading Materials####
+- sped.html
+
+---
+
+###Overview of BTG(HTML)###
+####Subject: ELA Materials for Low Literate Teens and Adults####
+#####Version 1#####
+- techtelltale.html
+
+#####Version 2#####
+- techmlk.html
+
+---
+
+###Point out level change feature(HTML)###
+####Subject: Helping SpED Students become more independent####
+
+
+
+
+
