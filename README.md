@@ -25,6 +25,8 @@ Notes:
 
 #Templates for Different Campaigns#
 
+##HTML:##
+
 ###Intro to Books That Grow (HTML)###
 ####Subject: Find the same text at different reading levels####
 #####Version 1#####
@@ -56,7 +58,27 @@ Notes:
 
 - techstudents.html
 
+---
 
+##Mail Merge (Don't forget to add links before sending):##
+
+###Intro to Books That Grow(Mail Merge)###
+####Subject: Introducing Books That Grow for SpED ELA####
+- intro.txt
+
+---
+
+###Your Invited to Try Books That Grow###
+####Subject: Special Invitation: Try Books That Grow####
+- specialoffer.txt
+
+---
+
+##Plain Text (Don't forget to add links before sending):##
+
+###From Least Restrictive / Most Inclusive###
+####Subject: What's qualifies as the Last Restricive Method in 2017####
+- 
 
 
 

@@ -2,6 +2,6 @@ Hello {{first Name}},
 
 I’m writing to introduce you to Books That Grow, which was named ‘Most Innovative’ education start-up by the members of the International Society for Technology Education in 2016.
 
-Books That Grow enables advanced and struggling readers to sit side-by-side and read the ‘same’ text at level that’s right for them. How? Our digital materials adjust to match each student’s reading ability.  Now, all of your students can access rich fiction and non-fiction text.
+Books That Grow enables advanced and struggling readers to sit side-by-side and read the ‘same’ text at the level that’s right for them. How? Our digital materials adjust to match each student’s reading ability.  Now all of your students can access rich fiction and non-fiction text.
 
-We invite you visit our site www.boooksthatgrow.com, view our library and learn about we make classrooms inclusive and welcoming for special needs students.
+We invite you to visit our site http://www.booksthatgrow.com/assistive-technology-for-reading-and-special-education, view our library, and learn about how we make classrooms inclusive and welcoming for special needs students.
