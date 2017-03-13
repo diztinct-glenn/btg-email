@@ -5,11 +5,18 @@ This is the master repository for Books That Grow's email campaigns. Below you w
 ####To use each template do the following:####
 
 1. Open app.sendgrid.com and make sure you're logged in.
+
 2. From the dashboard, navigate to Marketing > Campaigns.
+
 3. Once you're on the marketing campaigns page, click on the "Create Campaign" button. It should be located in the top right part of the screen.
+
 4. This will open a "Create a Campaign" window. You can choose any template and click Continue. **At this point it doesn't matter what template we use. In the next steps we'll copy and paste our personally customized HTML email into the code editor.**
+
 5. After we click continue it should open our new campaign. If you look in the top left of the screen you will see a toggle switch for how to view the email with the two options, **Design** and **Code**. By default it will be set to **Design** view. Click to switch the view to **Code**.
-6. The section below in this repository titled [**Templates for Email Campaigns**](https://github.com/gbasgaard/btg-email#templates-for-different-campaigns) lists out how to use the templates provided. Simply look for the Email Overview of the campaign you'll be sending, along with what the Subject Line will read, and below it will be the file name of the HTML template.
+
+6. The section below in this repository titled [**Templates for Email Campaigns**](https://github.com/gbasgaard/btg-email#templates-for-different-campaigns) lists out how to use the HTML templates provided. Simply look for the *Email Overview* of the campaign you'll be sending, along with what the *Subject* will read, and below it will be the file name of the HTML template.
+
+7. 
 
 #Templates for Email Campaigns#
 
@@ -18,7 +25,7 @@ This is the master repository for Books That Grow's email campaigns. Below you w
 ###Email Overview: Intro to Books That Grow (HTML)###
 ####Subject: Find the same text at different reading levels####
 #####Version 1#####
-- techtelltale.html
+- [techtelltale.html](../blob/master/html-emails/techtelltale.html)
 
 #####Version 2#####
 - techmlk.html
