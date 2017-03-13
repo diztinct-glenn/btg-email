@@ -1,6 +1,6 @@
 # btg-email
 
-This is the master repository for Books That Grow's email campaigns. Below you will see the documentation for which email template to use for each specific campaign.
+This is the master repository for Books That Grow's email campaigns. Please be sure to read through the directions carefully and follow each step. Below the directions, you will see the documentation for which email template to use for each specific campaign.
 
 ####To use each template do the following:####
 
@@ -14,9 +14,25 @@ This is the master repository for Books That Grow's email campaigns. Below you w
 
 5. After we click continue it should open our new campaign. If you look in the top left of the screen you will see a toggle switch for how to view the email with the two options, **Design** and **Code**. By default it will be set to **Design** view. Click to switch the view to **Code**.
 
-6. The section below in this repository titled [**Templates for Email Campaigns**](https://github.com/gbasgaard/btg-email#templates-for-different-campaigns) lists out how to use the HTML templates provided. Simply look for the *Email Overview* of the campaign you'll be sending, along with what the *Subject* will read, and below it will be the file name of the HTML template.
+6. The section below in this repository titled **Templates for Email Campaigns** lists out how to use the HTML templates provided. Simply look for the *Email Overview* of the campaign you'll be sending, along with what the *Subject* will read, and below it will be the file name of the HTML template. Click that link.
 
-7. 
+7. After clicking the link of whichever HTML email template you'll be using it will redirect you to the code for that template file. Highlight **ALL of the code**. Every template will start with `<!DOCTYPE html PUBLIC......>` and end with `</html>`.
+
+8. Once you've copied the code go back to your Campaign on SendGrid, delete whatever code is already in there, and paste the copied code from our own customized templates on GitHub. *Please doublecheck to make sure all of the code was copied over correctly. Any typos could cause errors in the formatting.*
+
+9. Use the documentation for the specific campaign chosen to now fill out the required fields in the "Settings" sidebar, left of the Code View. You'll need to fill in these sections and set them to the specified parameters:
+
+   **_CAMPAIGN SETTINGS_**
+  1. **Campaign Name** - *Email Overview* of the specific email you'll be sending out
+  2. **From Sender** - *Alexa*
+  3. **Subject** - *Subject* of the specific email you'll be sending out
+
+   **_RECIPIENTS_**
+  4. **List/Segments to Send To** - specified list to send the campaign to
+  5. **Unsubscribe Group** - *Unsub*
+
+10. After steps *1-9* are complete, you can now click the **Send Campaign** button in the top right corner of the screen. Congrats!
+
 
 #Templates for Email Campaigns#
 
