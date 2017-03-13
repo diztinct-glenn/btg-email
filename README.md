@@ -23,7 +23,7 @@ This is the master repository for Books That Grow's email campaigns. Please be s
 9. Use the documentation for the specific campaign chosen to now fill out the required fields in the "Settings" sidebar, left of the Code View. You'll need to fill in these sections and set them to the specified parameters:
 
    **_CAMPAIGN SETTINGS_**
-   
+
   1. **Campaign Name** - *Email Overview* of the specific email you'll be sending out
   2. **From Sender** - *Alexa*
   3. **Subject** - *Subject* of the specific email you'll be sending out
@@ -46,34 +46,34 @@ This is the master repository for Books That Grow's email campaigns. Please be s
 - [techtelltale.html](../master/html-emails/techtelltale.html)
 
 #####Version 2#####
-- techmlk.html
+- [techmlk.html](../master/html-emails/techmlk.html)
 
 ---
 
 ###Email Overview: Accessible Instructional Materials(HTML)###
 ####Subject: Redfining Accessible Reading Materials####
-- sped.html
+- [sped.html](../master/html-emails/sped.html)
 
 ---
 
 ###Email Overview: Overview of BTG(HTML)###
 ####Subject: ELA Materials for Low Literate Teens and Adults####
 #####Version 1#####
-- techtelltale.html
+- [techtelltale.html](../master/html-emails/techtelltale.html)
 
 #####Version 2#####
-- techmlk.html
+- [techmlk.html](../master/html-emails/techmlk.html)
 
 ---
 
 ###Email Overview: Point out level change feature(HTML)###
 ####Subject: Helping SpED Students become more independent####
 
-- techstudents.html
+- [techstudents.html](../master/html-emails/techstudents.html)
 
 ---
 
-##Mail Merge (Don't forget to add links before sending):##
+<!-- ##Mail Merge (Don't forget to add links before sending):##
 
 ###Email Overview: Intro to Books That Grow(Mail Merge)###
 ####Subject: Introducing Books That Grow for SpED ELA####
@@ -90,7 +90,7 @@ This is the master repository for Books That Grow's email campaigns. Please be s
 ###Email Overview: From Least Restrictive / Most Inclusive###
 ####Subject: What's qualifies as the Last Restricive Method in 2017####
 - 
-
+ -->
 
 
 
