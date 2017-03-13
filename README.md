@@ -2,19 +2,20 @@
 
 This is the master repository for Books That Grow's email campaigns. Below you will see the documentation for which email template to use for each specific campaign.
 
-To use each template do the following:
+####To use each template do the following:####
 
 1. Open app.sendgrid.com and make sure you're logged in.
 2. From the dashboard, navigate to Marketing > Campaigns.
 3. Once you're on the marketing campaigns page, click on the "Create Campaign" button. It should be located in the top right part of the screen.
-4. This will open a "Create a Campaign" window. You can choose any template and click Continue. **At this point it doesn't matter what template we use. In the next steps we'll copy and paste our personally customized HTML emails into the code editor.**
-5. 
+4. This will open a "Create a Campaign" window. You can choose any template and click Continue. **At this point it doesn't matter what template we use. In the next steps we'll copy and paste our personally customized HTML email into the code editor.**
+5. After we click continue it should open our new campaign. If you look in the top left of the screen you will see a toggle switch for how to view the email with the two options, **Design** and **Code**. By default it will be set to **Design** view. Click to switch the view to **Code**.
+6. The section below in this repository titled [**Templates for Email Campaigns**](https://github.com/gbasgaard/btg-email#templates-for-different-campaigns) lists out how to use the templates provided. Simply look for the Email Overview of the campaign you'll be sending, along with what the Subject Line will read, and below it will be the file name of the HTML template.
 
-#Templates for Different Campaigns#
+#Templates for Email Campaigns#
 
 ##HTML:##
 
-###Intro to Books That Grow (HTML)###
+###Email Overview: Intro to Books That Grow (HTML)###
 ####Subject: Find the same text at different reading levels####
 #####Version 1#####
 - techtelltale.html
@@ -24,13 +25,13 @@ To use each template do the following:
 
 ---
 
-###Accessible Instructional Materials(HTML)###
+###Email Overview: Accessible Instructional Materials(HTML)###
 ####Subject: Redfining Accessible Reading Materials####
 - sped.html
 
 ---
 
-###Overview of BTG(HTML)###
+###Email Overview: Overview of BTG(HTML)###
 ####Subject: ELA Materials for Low Literate Teens and Adults####
 #####Version 1#####
 - techtelltale.html
@@ -40,7 +41,7 @@ To use each template do the following:
 
 ---
 
-###Point out level change feature(HTML)###
+###Email Overview: Point out level change feature(HTML)###
 ####Subject: Helping SpED Students become more independent####
 
 - techstudents.html
@@ -49,19 +50,19 @@ To use each template do the following:
 
 ##Mail Merge (Don't forget to add links before sending):##
 
-###Intro to Books That Grow(Mail Merge)###
+###Email Overview: Intro to Books That Grow(Mail Merge)###
 ####Subject: Introducing Books That Grow for SpED ELA####
 - intro.txt
 
 ---
 
-###Your Invited to Try Books That Grow###
+###Email Overview: Your Invited to Try Books That Grow###
 ####Subject: Special Invitation: Try Books That Grow####
 - specialoffer.txt
 
 ---
 
-###From Least Restrictive / Most Inclusive###
+###Email Overview: From Least Restrictive / Most Inclusive###
 ####Subject: What's qualifies as the Last Restricive Method in 2017####
 - 
 
@@ -69,9 +70,7 @@ To use each template do the following:
 
 
 ---
----
----
-Old Templates
+<!-- Old Templates
 
 #Documentation On Which Templates To Use For Specific Recipient#
 
@@ -84,7 +83,7 @@ Old Templates
 - Tell Tale + Students = teachertelltalestudents.html
 - Tell Tale + Books = teachertelltalebooks.html
 - MLK + Students = teachermlkstudents.html
-- MLK + Books = teachermlkbooks.html
+- MLK + Books = teachermlkbooks.html -->
 
 
 
