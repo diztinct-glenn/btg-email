@@ -23,11 +23,13 @@ This is the master repository for Books That Grow's email campaigns. Please be s
 9. Use the documentation for the specific campaign chosen to now fill out the required fields in the "Settings" sidebar, left of the Code View. You'll need to fill in these sections and set them to the specified parameters:
 
    **_CAMPAIGN SETTINGS_**
+   
   1. **Campaign Name** - *Email Overview* of the specific email you'll be sending out
   2. **From Sender** - *Alexa*
   3. **Subject** - *Subject* of the specific email you'll be sending out
 
    **_RECIPIENTS_**
+
   4. **List/Segments to Send To** - specified list to send the campaign to
   5. **Unsubscribe Group** - *Unsub*
 
