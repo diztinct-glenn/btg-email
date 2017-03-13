@@ -3,6 +3,7 @@
 This is the master repository for Books That Grow's email campaigns. Below you will see the documentation for which email template to use for each specific campaign.
 
 To use each template do the following:
+
 1. Open app.sendgrid.com and make sure you're logged in.
 2. From the dashboard, navigate to Marketing > Campaigns.
 3. Once you're on the marketing campaigns page, click on the "Create Campaign" button. It should be located in the top right part of the screen.
