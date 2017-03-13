@@ -1,5 +1,14 @@
 # btg-email
 
+This is the master repository for Books That Grow's email campaigns. Below you will see the documentation for which email template to use for each specific campaign.
+
+To use each template do the following:
+1. Open app.sendgrid.com and make sure you're logged in.
+2. From the dashboard, navigate to Marketing > Campaigns.
+3. Once you're on the marketing campaigns page, click on the "Create Campaign" button. It should be located in the top right part of the screen.
+4. This will open a "Create a Campaign" window. You can choose any template and click Continue. **At this point it doesn't matter what template we use. In the next steps we'll copy and paste our personally customized HTML emails into the code editor.**
+5. 
+
 #Templates for Different Campaigns#
 
 ##HTML:##
@@ -50,8 +59,6 @@
 - specialoffer.txt
 
 ---
-
-##Plain Text (Don't forget to add links before sending):##
 
 ###From Least Restrictive / Most Inclusive###
 ####Subject: What's qualifies as the Last Restricive Method in 2017####
