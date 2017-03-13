@@ -25,7 +25,7 @@ This is the master repository for Books That Grow's email campaigns. Below you w
 ###Email Overview: Intro to Books That Grow (HTML)###
 ####Subject: Find the same text at different reading levels####
 #####Version 1#####
-- [techtelltale.html](../blob/master/html-emails/techtelltale.html)
+- [techtelltale.html](../master/html-emails/techtelltale.html)
 
 #####Version 2#####
 - techmlk.html
