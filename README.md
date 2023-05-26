@@ -2,7 +2,7 @@
 
 This is the master repository for Books That Grow's email campaigns. Please be sure to read through the directions carefully and follow each step. Below the directions, you will see the documentation for which email template to use for each specific campaign.
 
-####To use each template do the following:
+#### To use each template do the following:
 
 1. Open app.sendgrid.com and make sure you're logged in.
 
@@ -36,38 +36,38 @@ This is the master repository for Books That Grow's email campaigns. Please be s
 10. After steps *1-9* are complete, you can now click the **Send Campaign** button in the top right corner of the screen. Congrats!
 
 
-#Templates for Email Campaigns
+# Templates for Email Campaigns
 
-##HTML:
+## HTML:
 
-###Email Overview: Intro to Books That Grow (HTML)
-####Subject: Find the same text at different reading levels
-#####Version 1
+### Email Overview: Intro to Books That Grow (HTML)
+#### Subject: Find the same text at different reading levels
+##### Version 1
 - [techtelltale.html](../master/html-emails/techtelltale.html)
 
-#####Version 2
+##### Version 2
 - [techmlk.html](../master/html-emails/techmlk.html)
 
 ---
 
-###Email Overview: Accessible Instructional Materials(HTML)
-####Subject: Redfining Accessible Reading Materials
+### Email Overview: Accessible Instructional Materials(HTML)
+#### Subject: Redfining Accessible Reading Materials
 - [sped.html](../master/html-emails/sped.html)
 
 ---
 
-###Email Overview: Overview of BTG(HTML)
-####Subject: ELA Materials for Low Literate Teens and Adults
-#####Version 1
+### Email Overview: Overview of BTG(HTML)
+#### Subject: ELA Materials for Low Literate Teens and Adults
+##### Version 1
 - [techtelltale.html](../master/html-emails/techtelltale.html)
 
-#####Version 2
+##### Version 2
 - [techmlk.html](../master/html-emails/techmlk.html)
 
 ---
 
-###Email Overview: Point out level change feature(HTML)
-####Subject: Helping SpED Students become more independent
+### Email Overview: Point out level change feature(HTML)
+#### Subject: Helping SpED Students become more independent
 
 - [techstudents.html](../master/html-emails/techstudents.html)
 
